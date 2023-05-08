@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello I'm JeongKi Lee 👋
+
+###  💬 Ask me about ...  
+Korean developer
 
 <!--
 **leejk91/leejk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
